@@ -1,5 +1,9 @@
 .App {
+  font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
+  background-color: #F4C7AB;
+  padding: 50px;
+
 }
 
 .App-logo {
@@ -19,4 +23,35 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.link {
+  padding: 20px;
+  text-decoration: none;
+  color: #FCFAF1;
+}
+.page-title {
+  font-size: 50px;
+  padding-bottom: 20px;
+
+}
+
+.main-header {
+  padding: 30px;
+  background-color: #D67573;
+  color: #FCFAF1;
+
+} 
+
+.component-header {
+  color: #D67573;
+  font-weight: bold;
+  font-size: 35px;
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+
+.component-body {
+  color: #D67573;
+  font-weight: bold;
 }
